@@ -16,15 +16,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "express": "^4.16.3",
     "faker": "^4.1.0",
     "git-url-parse": "^11.1.2",
-    "nodemon": "^1.18.9",
+    "nodemon": "^2.0.7",
     "pg": "^8.3.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
-    "sequelize": "^4.38.1",
+    "sequelize": "^6.3.5",
     "simple-git": "^1.122.0",
     "yaml": "^1.6.0"
   },
@@ -47,9 +47,9 @@
     "chai": "^4.1.2",
     "enzyme": "^3.6.0",
     "enzyme-adapter-react-16": "^1.5.0",
-    "mocha": "^5.2.0",
+    "mocha": "^8.2.1",
     "supertest": "^3.3.0",
-    "webpack": "^4.20.1",
-    "webpack-cli": "^3.1.1"
+    "webpack": "^5.12.2",
+    "webpack-cli": "^4.3.1"
   }
 }
